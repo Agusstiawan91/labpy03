@@ -10,6 +10,9 @@
      c. jika nilai acak kurang dari 0.5, tambahkan ke dalam list
 4. output = menghasilkan nilai acak yang kurang dari 0.5 dalam list sebanyak N dan print selesai.
 
+# Screenshoot Latian 1
+![Teks Alternatif](sslatian1.png)
+
 # Algoritma latian 2
 1. Inisialisasi : Buat variabel bilangan_terbesar dan set nilainya ke None.
 2. Input pengulangan : Minta pengguna memasukkan bilangan ke dalam loop pengulangan.
@@ -22,6 +25,9 @@ Perbarui bilangan_terbesar dengan nilai angka.
 4. Output : Setelah keluar dari loop, periksa:
 Jika bilangan_terbesar tidak None, tampilkan "Bilangan terbesar adalah: [nilai bilangan terbesar]".
 Jika bilangan_terbesar masih None, tampilkan pesan "Tidak ada angka yang dimasukkan."
+
+# Screenshoot Latian 2
+![Teks Alternatif](sslatian2.png)
 
 # Algoritma program 1
 1. input =
@@ -38,4 +44,5 @@ Jika bilangan_terbesar masih None, tampilkan pesan "Tidak ada angka yang dimasuk
    b. tampilkan nilai laba setiap bulannya
 4. Output = tampilkan total keseluruhuan laba yang telah dihitung
 
-# Screesnshoot
+# Screenshoot Program 1
+![Teks Alternatif](ssprogram1.png)
